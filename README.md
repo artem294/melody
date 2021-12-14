@@ -2,6 +2,6 @@
 ##  Проект выполнил: Артём Турок
 
 ###  Технологии 
--html
--css
--javascript
+ -html
+ -css
+ -javascript
